@@ -1,5 +1,5 @@
 # CS201
-CS 201 course work, Bilkent University, Spring 2019 
+CS201 course work, Bilkent University, Spring 2019 
 
 Homework 1 - Simple Registration System using Dynamically Allocated Arrays <br/>
 Homework 2 - Time Complexity Analaysis of Algorithms <br/>
