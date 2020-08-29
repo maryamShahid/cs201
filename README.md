@@ -1,4 +1,4 @@
-# CS201
+# cs201
 CS201 course work, Bilkent University, Spring 2020
 
 Homework 1 - Simple Registration System using Dynamically Allocated Arrays <br/>
